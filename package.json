@@ -59,5 +59,10 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "feather-icons-react": "^0.4.1",
+    "react-styleguidist": "^11.1.0"
+  }
 }
